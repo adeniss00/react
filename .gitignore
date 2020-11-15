@@ -1,6 +1,6 @@
 .idea/
 .vscode/
-react-pokemons-app/node_modules/
+*/node_modules/*
 package-lock.json
 build
 .DS_Store
